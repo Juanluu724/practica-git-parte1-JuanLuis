@@ -6,3 +6,4 @@
 - Programar
 - relojes
 - golf(callaway)
+- Leer sobre IA
