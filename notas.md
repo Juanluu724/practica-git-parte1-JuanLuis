@@ -4,3 +4,4 @@
 - Programación de Servicios y Procesos
 - SGE (Sistemas de Gestión Empresarial)
 - Inglés Técnico
+- Empresa e Iniciativa Emprendedora
